@@ -11,6 +11,8 @@ Install
 Include the sources
 
 ```html
+<link href="bower_components/ngl.log/dist/log.css" rel="stylesheet">
+
 <script src="bower_components/ngl.log/dist/log.js"></script>
 <script src="bower_components/ngl.log/dist/templates.js"></script>
 ```
