@@ -1,7 +1,7 @@
 ngl.log
 =======
 
-Log component
+Angular 1.x log component
 
 Install
 -------
