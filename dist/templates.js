@@ -1,0 +1,1 @@
+angular.module("ngl.log.templates", []).run(["$templateCache", function($templateCache) {$templateCache.put("ngl.log.html","<div class=\"ngl-log\">\n  <pre ng-repeat=\"msg in log track by $index\" ng-bind=\"msg\"></pre>\n</div>\n");}]);
