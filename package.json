@@ -1,0 +1,15 @@
+{
+  "name": "ngl.log",
+  "version": "0.1.0",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "*",
+    "gulp-eslint": "*",
+    "gulp-angular-templatecache": "*",
+    "del": "*"
+  },
+  "scripts": {
+    "test":"gulp test",
+    "build" : "gulp build"
+  }
+}
